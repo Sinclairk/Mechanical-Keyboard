@@ -14,6 +14,7 @@ After installation is complete, the software will prompt you to install
 device drivers to your PC, Click yes
 
 Run the qmk toolbox and navigate to where you extracted the files above and select the Mechanical Keyboard.hex
+Select atmega32u4 as the MCU.
 
 ![FLASHING](https://user-images.githubusercontent.com/10372716/193075603-68ab9016-424c-4b74-8dad-6dae7f166821.png)
 
